@@ -8,7 +8,7 @@ The "Trivial File Transfer Protocol" (RFC 1350) is a simple, lockstep, file tran
 
 This protocol was developed following the [TFTP RFC](https://www.ietf.org/rfc/rfc1350.txt.pdf) specification.
 
-## Demonstration
+## Showcase
 
 https://user-images.githubusercontent.com/78108584/186881277-ef89b320-f333-43f2-a608-48ae88a160d8.mp4
 
